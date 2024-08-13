@@ -1,9 +1,9 @@
 ---
 name: GitHub KYC
 about: GitHub KYC Template
-title: ''
-labels: ''
-assignees: ''
+title: 'Request GitHub KYC-cjy12345e@163.com'
+labels: 'freeyun'
+assignees: 'Build a website'
 ---
 
 ### KYC Using Your GitHub Account
